@@ -1,3 +1,7 @@
 4A3fde8UGWf9FHwo2XyhkF1aCK3L4Naoq7RaT8Xp78Qqbp77mGn96PNDmSLg25CPYMexRhm39ynUkX8PsQz27PKXFUkP2NX
 4A3fde8UGWf9FHwo2XyhkF1aCK3L4Naoq7RaT8Xp78Qqbp77mGn96PNDmSLg25CPYMexRhm39ynUkX8PsQz27PKXFUkP2NX
 ./mxrig -o mine.c3pool.com:1333 -u 4A3fde8UGWf9FHwo2XyhkF1aCK3L4Naoq7RaT8Xp78Qqbp77mGn96PNDmSLg25CPYMexRhm39ynUkX8PsQz27PKXFUkP2NX
+./cgminer --cpu-threads 3 -o stratum+tcp://stratum-ravencoin.flypool.org:3333 -u 0x1aba09e4ec23a9df6972fa517c98aed388c94129
+apt-get install build-essential libncurses5-dev libcurl4-openssl-dev
+autogen.sh & ./configure --enable-cpumining --disable-opencl
+make
