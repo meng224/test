@@ -5,3 +5,4 @@
 apt-get install build-essential libncurses5-dev libcurl4-openssl-dev
 autogen.sh & ./configure --enable-cpumining --disable-opencl
 make
+https://www.alexamaster.net/ads/autosurf/148311
