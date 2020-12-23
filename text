@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Product Marketing Alliance (@productmarketing) on Speaker Deck</title>
+<link rel="stylesheet" media="screen" href="https://d1eu30co0ohy4w.cloudfront.net/assets/application-3de2d9c9c31d72de902890db2fa81fd39d854cd4800449bdabf4bfceeadc10f2.css" />
+<script src="https://d1eu30co0ohy4w.cloudfront.net/assets/application-409a30339727a8e23f53.js"></script>
+<link rel="icon" type="image/png" href="https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-c0fe5475f88a65b817c8cc7c0fedc01b7acc17fe27628fa13ca3f96e56e16977.png" />
+<link rel="apple-touch-icon" type="image/png" href="https://d1eu30co0ohy4w.cloudfront.net/assets/favicon-c0fe5475f88a65b817c8cc7c0fedc01b7acc17fe27628fa13ca3f96e56e16977.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="317uhyFTGOjUzEPtL5U2DF16DJ5m0nc1ZiviXxbwsXWnw7tczhmnTM7nz32o+AJa82kXfGJUrVxsCRiN4QyVEA==" />
+<link rel="alternate" type="application/atom+xml" title="Product Marketing Alliance's decks feed" href="https://speakerdeck.com/productmarketing.atom" />
+<link rel="canonical" href="https://speakerdeck.com/productmarketing" />
+<meta name="stats-owner_id" content="1048289" />
+<meta name="stats-view_type" content="profile" />
+<meta name="stats-page" content="1" />
+</head>
+<body class="sd-app">
+<div class="alert alert-banner text-warning">
+<a class="d-block text-center text-warning" href="/pro">
+Pro Yearly is <span class="text-white">on sale</span> from <strike>$80</strike> to $50! »
+</a> </div>
+<div class="sd-menu">
+<div class="container sd-menu-fixed-container">
+<div class="sd-brand">
+<a class="sd-brand-logo" href="/">
+<img alt="Speaker Deck" src="https://d1eu30co0ohy4w.cloudfront.net/assets/mark-f4be6df1e05965cac9f98e664a6c35f5ffdd0207385d07464a9214d6cdf76082.svg" /> <span class="d-none d-md-inline">Speaker Deck</span>
+</a> </div>
+<nav class="sd-fixed-nav">
+<div class="sd-nav-main js-toggle-container">
+<ul class="sd-nav-fixed-group nav toggle-flex-when-off">
+<li class="sd-nav-item d-md-block d-none">
+<form action="https://www.google.com/cse" id="cse-search-box" class="form-inline ml-5 ml-md-3">
+<input type="hidden" name="cx" value="010150859881542981030:hqhxyxpwtc4">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="text" name="q" id="q" value="" placeholder="Search..." class="form-control search-input mr-2">
+<input type="submit" name="sa" value="Search" class="btn btn-outline-primary d-inline-block d-md-none d-lg-inline-block">
+</form>
+</li>
+<li class="sd-nav-item nav-item">
+<a class="sd-nav-link nav-link" href="/pro">
+Speaker Deck Pro
+</a> </li>
+<li class="sd-nav-item nav-item">
+<a class="sd-nav-link nav-link" href="/signin">
+Sign in
+</a> </li>
+<li class="sd-nav-item nav-item">
+<a class="btn btn-primary" href="/signup">
+Sign up <span class="d-none d-md-inline">for free</span>
+</a> </li>
+<li class="sd-nav-item d-block d-md-none">
+<button class="btn btn-link mr-2 js-toggle-trigger">
+<svg class="icon icon-search "><use xlink:href="/icons/icons.svg#icon-search"></use></svg>
+</button>
+</li>
+</ul>
+<ul class="sd-nav-fixed-group nav toggle-flex-when-on">
+<li class="sd-nav-item">
+<form action="https://www.google.com/cse" id="cse-search-box" class="form-inline ml-5 ml-md-3">
+<input type="hidden" name="cx" value="010150859881542981030:hqhxyxpwtc4">
+<input type="hidden" name="ie" value="UTF-8">
+<div class="row">
+<div class="col col-auto pr-0">
+<input type="text" name="q" id="q" value="" placeholder="Search..." class="form-control search-input mr-2">
+</div>
+<div class="col col-auto">
+<input type="submit" name="sa" value="Search" class="btn btn-outline-primary d-inline-block d-md-none d-lg-inline-block">
+</div>
+</div>
+</form>
+</li>
+<li class="sd-nav-item pr-2">
+<button class="btn btn-link js-toggle-trigger">
+<svg class="icon icon-x "><use xlink:href="/icons/icons.svg#icon-x"></use></svg>
+</button>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+<div class="sd-categories">
+<div class="container sd-categories-container">
+<div class="sd-categories-scroller">
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/p/featured">Featured</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/business">Business</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/design">Design</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/education">Education</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/how-to-diy">How-to & DIY</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/programming">Programming</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/research">Research</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/science">Science</a>
+</div>
+<div class="sd-categories-item ">
+<a class="sd-categories-link" href="/c/technology">Technology</a>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-main">
+<div class="container pt-md-4 pt-3">
+<div class="row align-items-center mb-4">
+<div class="col-12 col-md-auto text-center text-md-left">
+<img class="avatar avatar-large" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=128" alt="C0390e8b11079f8761c0cd3274ed61cb?s=128" />
+</div>
+<div class="col-12 col-md-auto pl-md-0 mr-md-auto text-center text-md-left">
+<h1 class="m-0">
+Product Marketing Alliance
+</h1>
+<div class="text-muted">
+productmarketing
+</div>
+</div>
+<div class="col-12 col-md-auto pt-3 pt-lg-0 text-center text-md-left">
+<div class="btn-group btn-group-flex d-flex">
+<a class="btn btn-outline-primary w-100" href="/productmarketing/following">
+<svg class="icon icon-users "><use xlink:href="/icons/icons.svg#icon-users"></use></svg> 0 Followings
+</a> <a class="btn btn-outline-primary w-100" href="/productmarketing/followers">
+<svg class="icon icon-users "><use xlink:href="/icons/icons.svg#icon-users"></use></svg> 1 Followers
+</a> <a class="btn btn-outline-primary w-100" href="/productmarketing/stars">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0 Stars
+</a> </div>
+</div>
+</div>
+<div class="deck-description"><p>Product Marketing Alliance was founded in February 2019 with a mission of uniting product marketers across the globe. And it did just that.</p>
+<p>Since then, we've gathered more than 10,000 enthusiasts from the USA to Russia, Greece to Germany, England to Australia. All with one shared goal.</p>
+<p>To drive demand, adoption and the overall success of their products.</p></div>
+</div>
+<div class="container py-md-4 py-3">
+<div class="row mb-4">
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/better-together-how-technology-partnerships-drive-happiness" title="Better together: how technology partnerships drive happiness">
+<div class="card deck-preview" data-id="1e924f51139140eb86314e4e205d5c49" data-slide-count="16" data-cover-image="https://files.speakerdeck.com/presentations/1e924f51139140eb86314e4e205d5c49/preview_slide_0.jpg?16932020">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/1e924f51139140eb86314e4e205d5c49/preview_slide_0.jpg?16932020');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/1e924f51139140eb86314e4e205d5c49/preview_slide_0.jpg?16932020');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="37 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 37</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/inspiring-the-next-cloud-generation-of-users" title="Inspiring the next (cloud) generation of users">
+<div class="card deck-preview" data-id="bb63cba458854bc5acf8bbd06aec0b9a" data-slide-count="37" data-cover-image="https://files.speakerdeck.com/presentations/bb63cba458854bc5acf8bbd06aec0b9a/preview_slide_0.jpg?16883543">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/bb63cba458854bc5acf8bbd06aec0b9a/preview_slide_0.jpg?16883543');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/bb63cba458854bc5acf8bbd06aec0b9a/preview_slide_0.jpg?16883543');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="22 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 22</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/let-your-people-be-people" title="Let your people be people">
+<div class="card deck-preview" data-id="d63629abe2974be0b886e3e6fd31bae9" data-slide-count="20" data-cover-image="https://files.speakerdeck.com/presentations/d63629abe2974be0b886e3e6fd31bae9/preview_slide_0.jpg?16832571">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/d63629abe2974be0b886e3e6fd31bae9/preview_slide_0.jpg?16832571');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/d63629abe2974be0b886e3e6fd31bae9/preview_slide_0.jpg?16832571');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="85 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 85</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/building-a-bridge-between-product-marketing-and-sales" title="Building a bridge between product marketing and sales">
+<div class="card deck-preview" data-id="252a0c1b7a0f4ca986969168be8bf206" data-slide-count="18" data-cover-image="https://files.speakerdeck.com/presentations/252a0c1b7a0f4ca986969168be8bf206/preview_slide_0.jpg?16787272">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/252a0c1b7a0f4ca986969168be8bf206/preview_slide_0.jpg?16787272');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/252a0c1b7a0f4ca986969168be8bf206/preview_slide_0.jpg?16787272');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="27 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 27</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/what-product-marketing-can-learn-from-brand-strategy" title="What product marketing can learn from brand strategy">
+<div class="card deck-preview" data-id="398e60af55804786a3d0495325f76580" data-slide-count="45" data-cover-image="https://files.speakerdeck.com/presentations/398e60af55804786a3d0495325f76580/preview_slide_0.jpg?16787290">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/398e60af55804786a3d0495325f76580/preview_slide_0.jpg?16787290');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/398e60af55804786a3d0495325f76580/preview_slide_0.jpg?16787290');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="35 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 35</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/educating-the-next-generation-of-your-sales-organization" title="Educating the next generation of your sales organization">
+<div class="card deck-preview" data-id="95e7bc7d32874080ba56d03902aeb949" data-slide-count="24" data-cover-image="https://files.speakerdeck.com/presentations/95e7bc7d32874080ba56d03902aeb949/preview_slide_0.jpg?16732524">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/95e7bc7d32874080ba56d03902aeb949/preview_slide_0.jpg?16732524');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/95e7bc7d32874080ba56d03902aeb949/preview_slide_0.jpg?16732524');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="65 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 65</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/becoming-a-translator-for-the-c-suite" title="Becoming a translator for the C-suite">
+<div class="card deck-preview" data-id="0291f3d9dc3e43389bf1d3ba6bba5bdf" data-slide-count="25" data-cover-image="https://files.speakerdeck.com/presentations/0291f3d9dc3e43389bf1d3ba6bba5bdf/preview_slide_0.jpg?16682355">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/0291f3d9dc3e43389bf1d3ba6bba5bdf/preview_slide_0.jpg?16682355');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/0291f3d9dc3e43389bf1d3ba6bba5bdf/preview_slide_0.jpg?16682355');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="49 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 49</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/8-tips-for-effective-win-loss-analysis" title="8 tips for effective win-loss analysis">
+<div class="card deck-preview" data-id="1065fc477e5544f1a9977959fc9adc64" data-slide-count="17" data-cover-image="https://files.speakerdeck.com/presentations/1065fc477e5544f1a9977959fc9adc64/preview_slide_0.jpg?16645628">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/1065fc477e5544f1a9977959fc9adc64/preview_slide_0.jpg?16645628');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/1065fc477e5544f1a9977959fc9adc64/preview_slide_0.jpg?16645628');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="122 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 120</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/the-5-key-personas-behind-an-award-winning-go-to-market-team" title="The 5 key ‘personas’ behind an award-winning go-to-market team">
+<div class="card deck-preview" data-id="df56d87f42734881958b025d744146eb" data-slide-count="14" data-cover-image="https://files.speakerdeck.com/presentations/df56d87f42734881958b025d744146eb/preview_slide_0.jpg?16591900">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/df56d87f42734881958b025d744146eb/preview_slide_0.jpg?16591900');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/df56d87f42734881958b025d744146eb/preview_slide_0.jpg?16591900');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="109 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 110</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/simplify-your-message-for-maximum-impact" title="Simplify your message for maximum impact">
+<div class="card deck-preview" data-id="a304ab11a62244b7ad658be763c89db9" data-slide-count="31" data-cover-image="https://files.speakerdeck.com/presentations/a304ab11a62244b7ad658be763c89db9/preview_slide_0.jpg?16562815">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/a304ab11a62244b7ad658be763c89db9/preview_slide_0.jpg?16562815');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/a304ab11a62244b7ad658be763c89db9/preview_slide_0.jpg?16562815');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="251 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 250</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/connecting-content-to-your-bottom-line" title="Connecting content to your bottom line">
+<div class="card deck-preview" data-id="5fd8309553ae4e7380847329efea6756" data-slide-count="20" data-cover-image="https://files.speakerdeck.com/presentations/5fd8309553ae4e7380847329efea6756/preview_slide_0.jpg?16526654">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/5fd8309553ae4e7380847329efea6756/preview_slide_0.jpg?16526654');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/5fd8309553ae4e7380847329efea6756/preview_slide_0.jpg?16526654');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="63 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 63</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/tl-dr-simplifying-your-message-for-maximum-impact-ec2be46d-27c6-494a-87d6-f1efa7262879" title="TL;DR: simplifying your message for maximum impact">
+<div class="card deck-preview" data-id="0d6630a0c1174341b7f848145731b5d0" data-slide-count="31" data-cover-image="https://files.speakerdeck.com/presentations/0d6630a0c1174341b7f848145731b5d0/preview_slide_0.jpg?16475673">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/0d6630a0c1174341b7f848145731b5d0/preview_slide_0.jpg?16475673');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/0d6630a0c1174341b7f848145731b5d0/preview_slide_0.jpg?16475673');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="86 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 86</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/aligning-sales-and-marketing-and-getting-organised-for-success" title="Aligning sales and marketing and getting organised for success">
+<div class="card deck-preview" data-id="6c0e691c26704b93bced3c03226e5cb3" data-slide-count="16" data-cover-image="https://files.speakerdeck.com/presentations/6c0e691c26704b93bced3c03226e5cb3/preview_slide_0.jpg?16430393">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/6c0e691c26704b93bced3c03226e5cb3/preview_slide_0.jpg?16430393');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/6c0e691c26704b93bced3c03226e5cb3/preview_slide_0.jpg?16430393');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="12 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 12</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/how-product-marketers-can-get-a-seat-at-the-pricing-table" title="How product marketers can get a seat at the pricing table">
+<div class="card deck-preview" data-id="15e989450fb344508e5e178f90456f76" data-slide-count="29" data-cover-image="https://files.speakerdeck.com/presentations/15e989450fb344508e5e178f90456f76/preview_slide_0.jpg?16393153">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/15e989450fb344508e5e178f90456f76/preview_slide_0.jpg?16393153');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/15e989450fb344508e5e178f90456f76/preview_slide_0.jpg?16393153');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="65 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 65</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/improving-conversion-and-ltv-by-adding-steps-to-checkout" title="Improving conversion (and LTV) by adding steps to checkout">
+<div class="card deck-preview" data-id="c4d622273938456294eccec2837d8dbf" data-slide-count="25" data-cover-image="https://files.speakerdeck.com/presentations/c4d622273938456294eccec2837d8dbf/preview_slide_0.jpg?16383461">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/c4d622273938456294eccec2837d8dbf/preview_slide_0.jpg?16383461');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/c4d622273938456294eccec2837d8dbf/preview_slide_0.jpg?16383461');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="34 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 34</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/how-to-improve-your-conversion-funnel-without-changing-your-product" title="How to improve your conversion funnel without changing your product">
+<div class="card deck-preview" data-id="060e49b2e1d3459195de254d2b842748" data-slide-count="16" data-cover-image="https://files.speakerdeck.com/presentations/060e49b2e1d3459195de254d2b842748/preview_slide_0.jpg?16325699">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/060e49b2e1d3459195de254d2b842748/preview_slide_0.jpg?16325699');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/060e49b2e1d3459195de254d2b842748/preview_slide_0.jpg?16325699');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="67 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 67</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/building-a-bridge-between-marketing-and-sales" title="Building a bridge between marketing and sales">
+<div class="card deck-preview" data-id="05526eeb8fcd4d7894a7001da0f2876d" data-slide-count="18" data-cover-image="https://files.speakerdeck.com/presentations/05526eeb8fcd4d7894a7001da0f2876d/preview_slide_0.jpg?16277468">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/05526eeb8fcd4d7894a7001da0f2876d/preview_slide_0.jpg?16277468');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/05526eeb8fcd4d7894a7001da0f2876d/preview_slide_0.jpg?16277468');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 0
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="93 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 93</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-12 col-md-6 col-lg-4 mb-5">
+<a href="/productmarketing/the-enablement-imperative" title="The enablement imperative">
+<div class="card deck-preview" data-id="a9e6ebe7139b4015b46111f86e303f36" data-slide-count="17" data-cover-image="https://files.speakerdeck.com/presentations/a9e6ebe7139b4015b46111f86e303f36/preview_slide_0.jpg?16226930">
+<div class="deck-preview-image">
+<div class="content"></div>
+<div class="deck-preview-slide" style="background-image: url('https://files.speakerdeck.com/presentations/a9e6ebe7139b4015b46111f86e303f36/preview_slide_0.jpg?16226930');"></div>
+<div class="deck-preview-background" style="background-image: url('https://files.speakerdeck.com/presentations/a9e6ebe7139b4015b46111f86e303f36/preview_slide_0.jpg?16226930');"></div>
+<div class="deck-preview-slide deck-preview-scrub-slide"></div>
+<div class="deck-preview-background deck-preview-scrub-background"></div>
+<div class="deck-preview-scrubber"></div>
+</div>
+<div class="deck-preview-meta d-flex px-2">
+<div class="text-truncate py-3 px-2">
+<img class="avatar avatar-sm" src="//secure.gravatar.com/avatar/c0390e8b11079f8761c0cd3274ed61cb?s=48" alt="C0390e8b11079f8761c0cd3274ed61cb?s=48" />
+productmarketing
+</div>
+<div class="px-2 mr-auto py-3">
+<svg class="icon icon-star "><use xlink:href="/icons/icons.svg#icon-star"></use></svg> 1
+</div>
+<div class="px-2 ml-auto py-3">
+<span title="73 views"><svg class="icon icon-eye "><use xlink:href="/icons/icons.svg#icon-eye"></use></svg> 73</span>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<nav aria-label="Talks navigation"><ul class="pagination"><li class="prev disabled page-item"><a class="page-link" tabindex="-1" href="#"><span aria-hidden="true">Previous</span><span class="sr-only">Previous</span></a></li> <li class="active disabled page-item"><a class="page-link" tabindex="-1" href="#">1<span class="sr-only">(current)</span></a></li> <li class="page-item"><a class="page-link" rel="next" href="/productmarketing?page=2">2</a></li> <li class="page-item"><a class="page-link" href="/productmarketing?page=3">3</a></li> <li class="next"><a class="page-link" aria-label="Next" rel="next" href="/productmarketing?page=2"><span aria-hidden="true">Next</span><span class="sr-only">Next</span></a></li></ul></nav>
+</div>
+</div>
+<footer class="d-block border-top">
+<div class="container py-3 py-md-5 text-muted">
+<div class="row text-center text-md-left">
+<div class="col-12 col-md-auto mr-auto mb-3 mb-md-0">
+<div class="copyright-text mb-3 mb-md-0">Copyright © 2020 <a href="https://fewerandfaster.com">Fewer and Faster</a> LLC.</div>
+<div>All slide content and descriptions are owned by their creators.</div>
+</div>
+<div class="col-12 col-md-auto">
+<a href="/faq">F.A.Q.</a>
+<a href="/tos">Terms</a>
+<a href="/privacy">Privacy</a>
+<a href="/dmca">DMCA</a>
+</div>
+</div>
+</div>
+</footer>
+<script src="https://d1eu30co0ohy4w.cloudfront.net/assets/stats-2c7d30474786277c3d46.js"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19290517-1']);
+_gaq.push(['_setDomainName', '.speakerdeck.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+var _gauges = _gauges || [];
+(function() {
+var t = document.createElement('script');
+t.type = 'text/javascript';
+t.async = true;
+t.id = 'gauges-tracker';
+t.setAttribute('data-site-id', '5fbefd227f48dd33b4375a47');
+t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(t, s);
+})();
+</script>
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2893765844191276');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2893765844191276&ev=PageView&noscript=1"
+/></noscript>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId : '491686710857561',
+autoLogAppEvents : true,
+xfbml : true,
+version : 'v2.12'
+});
+};
+(function(d, s, id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) {return;}
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+</body>
+</html>
