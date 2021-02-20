@@ -63,9 +63,9 @@
     "pools": [
         {
             "algo": null,
-            "coin": raven,
-            "url": "raven.f2pool.com:3636",
-            "user": "RLvVHAaHBo6k4tqmyFwZjjJypYx3ZxnwtS",
+            "coin": null,
+            "url": "stratum+tcp://xmr.f2pool.com:13531",
+            "user": "468ChBHeJ5HPgTanWMvyVqbksP8HSwSokgnqew6afMPw2H8d3qnEXsEJobEbhT87SdBNfJnTcKKwQHXMAXJ58GRZJTicjFq.userg",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
