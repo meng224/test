@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": "raven",
+            "url": "us-rvn.2miners.com:16060 ",
+            "user": "RLvVHAaHBo6k4tqmyFwZjjJypYx3ZxnwtS",
+            "tls": true
+        }
+    ]
+}
